@@ -17,9 +17,10 @@ There are three main screens within the app:
 - React Router
 - Redux/ React Redux
 
-## Login
+## Screens
+### Login
 ![alt text](https://github.com/warodri-sendbird/react-js-sendbird/blob/main/screenshot-login.png?raw=true)
-## Channel list
+### Channel list
 ![alt text](https://github.com/warodri-sendbird/react-js-sendbird/blob/main/screenshot-channels.png?raw=true)
-## Chat view
+### Chat view
 ![alt text](https://github.com/warodri-sendbird/react-js-sendbird/blob/main/screenshot-chat.png?raw=true)
