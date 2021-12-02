@@ -13,3 +13,10 @@ There are three main screens within the app:
 - dotenv (SendBird API key)
 - React Router
 - Redux/ React Redux
+
+## Login
+![alt text](https://github.com/warodri-sendbird/react-js-sendbird/blob/main/screenshot-login.png?raw=true)
+## Channel list
+![alt text](https://github.com/warodri-sendbird/react-js-sendbird/blob/main/screenshot-channels.png?raw=true)
+## Chat view
+![alt text](https://github.com/warodri-sendbird/react-js-sendbird/blob/main/screenshot-chat.png?raw=true)
